@@ -1,0 +1,6 @@
+{
+  "name": "VELORA - Premium Fashion & Lifestyle",
+  "description": "Modern European luxury fashion and lifestyle e-commerce store with curated collections, seamless shopping bag, and editorial product showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
